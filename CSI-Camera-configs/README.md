@@ -18,3 +18,4 @@ Navigate to the Jetson-IO directory and run:
 cd /opt/nvidia/jetson-io
 sudo python jetson-io.py
 ```
+![Jetson IO Main Menu](images/image1.png)
