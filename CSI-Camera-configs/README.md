@@ -1,6 +1,6 @@
 # Jetson Orin Nano CSI Camera Testing
 
-This guide explains how to test CSI cameras (IMX219, IMX477, etc.) on the **NVIDIA Jetson Orin Nano** after completing the initial camera configuration.
+This guide explains how to test CSI cameras (IMX219, IMX477, etc.) on the **NVIDIA Jetson Orin Nano** after completing the initial camera configuration. Refere Setup_README.md for CSI-Camera Initial configs setup.
 
 ---
 
@@ -42,4 +42,5 @@ python3 simple_camera.py
 python3 face_detect.py
 ```
    
+
 
