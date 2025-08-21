@@ -40,4 +40,10 @@ Confirm by selecting Save and Reboot so the configuration takes effect:
 
 ![Save and Reboot](images/image5.png)
 
+## 🔧 Testing the Camera
+After reboot, test your camera with:
 
+```bash
+# List available cameras
+ls -l /dev/video*
+```
